@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './decatur_logo.png';
+import logo from './dogcaturga_logo.png';
 import './App.css';
 
 function App() {
