@@ -2,11 +2,11 @@ import React, { useEffect, useState } from 'react'
 import logo from './dogcaturga_logo.png';
 import './App.css';
 
-function App({signOut, user}) {
+function App() {
   return (
     <div className="App">
-        <Heading level={1}>Hello {user.username}</Heading>
-        <Button onClick={signOut}>Sign out</Button>
+        <Heading level={1}>Hello dude!</Heading>
+        <Button>Sign out</Button>
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
@@ -17,4 +17,4 @@ function App({signOut, user}) {
   );
 }
 
-export default withAuthenticator(App);
+export default App;
