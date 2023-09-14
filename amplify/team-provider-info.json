@@ -1,15 +1,20 @@
 {
-  "dev": {
+  "develop": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-dogcaturga-dev-205228-authRole",
-      "UnauthRoleArn": "arn:aws:iam::855118753887:role/amplify-dogcaturga-dev-205228-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::855118753887:role/amplify-dogcaturga-dev-205228-authRole",
+      "AuthRoleName": "amplify-dogcaturga-develop-131409-authRole",
+      "UnauthRoleArn": "arn:aws:iam::855118753887:role/amplify-dogcaturga-develop-131409-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::855118753887:role/amplify-dogcaturga-develop-131409-authRole",
       "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-dogcaturga-dev-205228-deployment",
-      "UnauthRoleName": "amplify-dogcaturga-dev-205228-unauthRole",
-      "StackName": "amplify-dogcaturga-dev-205228",
-      "StackId": "arn:aws:cloudformation:us-east-1:855118753887:stack/amplify-dogcaturga-dev-205228/d09993f0-51cf-11ee-bb0f-124347835737",
-      "AmplifyAppId": "d2tmcudxzr1gb8"
+      "DeploymentBucketName": "amplify-dogcaturga-develop-131409-deployment",
+      "UnauthRoleName": "amplify-dogcaturga-develop-131409-unauthRole",
+      "StackName": "amplify-dogcaturga-develop-131409",
+      "StackId": "arn:aws:cloudformation:us-east-1:855118753887:stack/amplify-dogcaturga-develop-131409/1f6e9b80-5322-11ee-8485-0eefd66a8eb5",
+      "AmplifyAppId": "d30pvptbyuxd1n"
+    },
+    "categories": {
+      "api": {
+        "dogcaturga": {}
+      }
     }
   }
 }
